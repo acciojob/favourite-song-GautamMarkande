@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+*{
+	text-align : center;
+	font-size : 30px;
+}
+a {
+	 color : red;
+	
+}
